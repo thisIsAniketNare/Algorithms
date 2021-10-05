@@ -1,5 +1,3 @@
-package nqueenproblem;
-
 public class NQueenProblem {
 	int n=20;
 	int count = 0;
