@@ -1,5 +1,3 @@
-package quickSorting;
-
 import java.util.Random;
 
 public class QuickSort {
